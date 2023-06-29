@@ -30,7 +30,7 @@ plugins:
   - search
   - git-revision-date
 extra:
-  homepage: https://prophetdb.org
+  homepage: https://www.prophetdb.org
   social:
     - icon: fontawesome/brands/github
       link: https://github.com/prophetdb-openlab
