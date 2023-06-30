@@ -54,13 +54,13 @@ theme:
   palette:
     - scheme: default
       toggle:
-        icon: material/toggle-switch-off-outline
+        icon: material/toggle-switch-outline
         name: Switch to dark mode
       primary: blue
     - scheme: slate
       toggle:
-      icon: material/toggle-switch-off-outline
-      name: Switch to light mode
+        icon: material/toggle-switch-off-outline
+        name: Switch to light mode
   name: "material"
 
 # Table of contents
