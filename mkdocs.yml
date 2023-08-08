@@ -1,8 +1,8 @@
 # Please access https://squidfunk.github.io/mkdocs-material for more details.
-site_name: ProphetDB OpenLab
-site_description: "ProphetDB OpenLab is a research group in the Department of Molecular and Human Genetics at Shanghai Institute of Health Sciences. It is created by Zihan Ran. The lab is interested in understanding the molecular mechanisms of human diseases and toxicants, and developing novel therapeutic strategies."
+site_name: OpenProphetDB
+site_description: "OpenProphetDB is a research group which is interested in the following topics: construct and integrate <b>knowledge graph</b>, <b>multi-omics data</b> and <b>deep learning models</b> to find new drug targets and biomarkers, understand the molecular mechanisms of human diseases and toxicants, and develop novel therapeutic strategies. It is led by Jingcheng Yang, Zihan Ran, and Yechao Huang."
 site_author: "Jingcheng Yang"
-announce: "ProphetDB OpenLab"
+announce: "OpenProphetDB"
 announce_text: 'We are looking for highly motivated graduate students, and undergraduate students to join our team. Please contact us if you are interested.'
 docs_dir: docs/
 repo_name: "prophetdb-openlab"
@@ -34,9 +34,9 @@ extra:
   social:
     - icon: fontawesome/brands/github
       link: https://github.com/prophetdb-openlab
-      name: Ran Lab
+      name: OpenProphetDB
   generator: false
-copyright: Copyright &copy; 2016 - 2023 Ran Lab
+copyright: Copyright &copy; 2016 - 2023 OpenProphetDB
 theme:
   custom_dir: docs/assets/overrides
   features:

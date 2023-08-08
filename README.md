@@ -1,12 +1,16 @@
-<h2 align="center">A website for Ran Lab</h2>
+<h2 align="center">A website for OpenProphetDB</h2>
 <p align="center">
-Ran Lab is a research group in the Department of Molecular and Human Genetics at Shanghai Institute of Health Sciences. We are interested in understanding the molecular mechanisms of human diseases and toxicants, and developing novel therapeutic strategies.
+OpenProphetDB is a research group which is interested in the following topics: construct and integrate **knowledge graph**, **multi-omics data** and **deep learning models** to find new drug targets and biomarkers, understand the molecular mechanisms of human diseases and toxicants, and develop novel therapeutic strategies.
 </p>
 
 <p align="center">
 <img src="https://img.shields.io/github/license/prophetdb-openlab/prophetdb.org.svg?label=License" alt="License"> 
-<a href="https://github.com/prophetdb-openlab/prophetdb.org/releases"><img alt="Latest Release" src="https://img.shields.io/github/release/prophetdb-openlab/prophetdb.org.svg?label=Latest%20Release"/></a>
-<a href="https://github.com/prophetdb-openlab/prophetdb.org/actions/workflows/publish-docs.yml"><img alt="Quality Control" src="https://github.com/prophetdb-openlab/prophetdb.org/actions/workflows/publish-docs.yml/badge.svg"/></a>
+<a href="https://github.com/prophetdb-openlab/prophetdb.org/releases">
+<img alt="Latest Release" src="https://img.shields.io/github/release/prophetdb-openlab/prophetdb.org.svg?label=Latest%20Release"/>
+</a>
+<a href="https://github.com/prophetdb-openlab/prophetdb.org/actions/workflows/publish-docs.yml">
+<img alt="Quality Control" src="https://github.com/prophetdb-openlab/prophetdb.org/actions/workflows/publish-docs.yml/badge.svg"/>
+</a>
 </p>
 
 ## For Developers
