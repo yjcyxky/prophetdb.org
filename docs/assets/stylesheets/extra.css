@@ -56,3 +56,68 @@ iframe[style^="background"] {
 .md-content img {
   max-width: unset !important;
 }
+
+.card {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  margin-bottom: 20px;
+  width: 33%;
+  height: 230px;
+  margin-right: 20px;
+  border: 1px solid #e7e7e7;
+  border-radius: 4px;
+  padding: 5px;
+}
+
+.card .left {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: center;
+}
+
+.card .left img {
+  width: 150px;
+  border: 1px solid #e7e7e7;
+  border-radius: 50%;
+}
+
+.card .right {
+  font-size: 16px;
+  margin-left: 20px;
+  text-align: right;
+}
+
+.card .left .name {
+  font-size: 20px;
+  font-weight: bold;
+  text-align: center;
+  margin: 5px 0;
+}
+
+.card .left .position {
+  font-size: 16px;
+  text-align: center;
+}
+
+/* media */
+@media screen and (max-width: 768px) {
+  .card .right {
+    display: none;
+  }
+
+  .card .left {
+    width: 100%;
+  }
+}
+
+@media screen and (max-width: 1024px) {
+  .card .right {
+    display: none;
+  }
+
+  .card .left {
+    width: 100%;
+  }
+}
