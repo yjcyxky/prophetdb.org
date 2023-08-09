@@ -52,3 +52,7 @@ iframe[style^="background"] {
   right: 10px;
   bottom: 0px;
 }
+
+.md-content img {
+  max-width: unset !important;
+}
