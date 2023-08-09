@@ -14,11 +14,11 @@ hide:
 > 
 > Toxicology: Drug Toxicity, Environmental Toxicity, etc. such as PM2.5.
 
-### 🧑‍🔬 Curation of BioMedical Knowledges and Omics Data
+### 🧑‍🔬 Curating BioMedical Knowledges and Omics Data
 
 - Curate multi-omics data and knowledge from public databases and literatures for `rare diseases` and `toxicology`.
 
-### 🕸️ Building of BioMedical Knowledge Graph
+### 🕸️ Building BioMedical Knowledge Graph
 
 - Build a biomedical knowledge graph for drug repurposing, disease mechanism and biomarker screening for `rare diseases`.
 - Build a knowledge graph for `toxicology`.
