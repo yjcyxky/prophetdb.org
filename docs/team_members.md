@@ -14,7 +14,7 @@ hide:
       <img src="https://avatars.githubusercontent.com/u/5989562?v=4" style="width: 150px;" />
       <div>
         <div style="font-size: 20px; font-weight: bold; text-align: center; margin: 5px 0; ">Jingcheng Yang</div>
-        <div style="font-size: 16px; text-align: center;">Project Leader</div>
+        <div style="font-size: 16px; text-align: center;">Post Doc</div>
       </div>
     </div>
     <div style="font-size: 16px; margin-left: 20px;">
@@ -26,7 +26,7 @@ hide:
       <img src="https://avatars.githubusercontent.com/u/25105806?v=4" style="width: 150px;" />
       <div>
         <div style="font-size: 20px; font-weight: bold; text-align: center; margin: 5px 0; ">Zihan Ran</div>
-        <div style="font-size: 16px; text-align: center;">Project Leader</div>
+        <div style="font-size: 16px; text-align: center;">Associate Professor</div>
       </div>
     </div>
     <div style="font-size: 16px; margin-left: 20px; text-align: justify;">
@@ -38,7 +38,7 @@ hide:
       <img src="https://avatars.githubusercontent.com/u/25105806?v=4" style="width: 150px;" />
       <div>
         <div style="font-size: 20px; font-weight: bold; text-align: center; margin: 5px 0; ">Yechao Huang</div>
-        <div style="font-size: 16px; text-align: center;">Project Leader</div>
+        <div style="font-size: 16px; text-align: center;">PhD</div>
       </div>
     </div>
     <div style="font-size: 16px; margin-left: 20px; text-align: justify;">
