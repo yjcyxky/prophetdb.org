@@ -23,6 +23,8 @@ hide:
 - Build a biomedical knowledge graph for drug repurposing, disease mechanism and biomarker screening for `rare diseases`.
 - Build a knowledge graph for `toxicology`.
 
+>  <img alt="Knowledge Graph" src="/assets/images/knowledge-graph.png" width="100%" />
+
 ### 🧮 Data Analysis and Modeling
 
 - Analyze multi-omics data for `rare diseases` and `toxicology`.
