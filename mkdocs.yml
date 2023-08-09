@@ -66,7 +66,9 @@ theme:
 # Table of contents
 nav:
   - Home: index.md
-  - Projects: projects.md
+  - 'Ongoing Projects': projects.md
+  - Goals: goals.md
+  - Platform: platform.md
   - Publications: publications.md
   - 'Team Members': team_members.md
   - 'Contact Us': contact.md
