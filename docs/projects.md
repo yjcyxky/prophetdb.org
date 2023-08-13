@@ -9,7 +9,7 @@ hide:
 
 Goal: curate latest findings from literatures and build a knowledgebase for Thrombocytopenia. It may complete the knowledge graph for thrombocytopenia.
 
-Group members: Xiuwen Chen
+Group members: Zhixing Zhu, Xiuwen Chen, Feng Zhu, Mingming Li
 
 ### 🧑‍🔬 Curation of BioMedical Knowledges for ME/CFS and Long COVID
 
