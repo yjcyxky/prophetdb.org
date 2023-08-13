@@ -61,6 +61,7 @@ iframe[style^="background"] {
   display: flex;
   flex-direction: row;
   justify-content: space-between;
+  flex-wrap: wrap;
 }
 
 .showcase-container a .image {
@@ -73,9 +74,9 @@ iframe[style^="background"] {
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  width: 30%;
   margin: 10px;
   text-align: center;
+  width: 30%;
 }
 
 .showcase-container .title {
@@ -138,14 +139,36 @@ iframe[style^="background"] {
   .card .left {
     width: 100%;
   }
+
+  .showcase-container a {
+    width: 100%;
+  }
 }
 
-@media screen and (max-width: 1024px) {
+@media (min-width: 768px) and (max-width: 1024px) {
   .card .right {
     display: none;
   }
 
   .card .left {
     width: 100%;
+  }
+
+  .showcase-container a {
+    width: 100%;
+  }
+}
+
+@media (min-width: 1024px) and (max-width: 1280px) {
+  .card .right {
+    display: none;
+  }
+
+  .card .left {
+    width: 100%;
+  }
+
+  .showcase-container a {
+    width: 30%;
   }
 }
