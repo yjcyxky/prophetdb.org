@@ -57,6 +57,34 @@ iframe[style^="background"] {
   max-width: unset !important;
 }
 
+.showcase-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+.showcase-container a .image {
+  height: 100%;
+  margin: 10px;
+}
+
+.showcase-container a {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 30%;
+  margin: 10px;
+  text-align: center;
+}
+
+.showcase-container .title {
+  margin: 0px 0px 0px 0px;
+  font-size: 16px;
+  text-align: center;
+  color: black;
+}
+
 .card {
   display: flex;
   flex-direction: row;
