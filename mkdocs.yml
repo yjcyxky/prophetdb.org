@@ -75,3 +75,4 @@ nav:
   - 'FAQs': faqs.md
   - 'Tutorials':
     - 'T001-文献标注': './tutorials/T001-文献标注.md'
+    - 'T002-Edit & Standadize Findings': https://github.com/yjcyxky/knowledge-graph-editor#how-to-install-and-use
