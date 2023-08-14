@@ -73,3 +73,5 @@ nav:
   - 'Team Members': team_members.md
   - 'Contact Us': contact.md
   - 'FAQs': faqs.md
+  - 'Tutorials':
+    - 'T001-文献标注': './tutorials/T001-文献标注.md'

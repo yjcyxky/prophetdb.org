@@ -5,7 +5,7 @@ hide:
 
 ### How to curate biomedical knowledges from literatures?
 
-> Please follow the [RT003 - 文献标注指南](https://tgmc.yuque.com/rhfnqq/agy20i/thfd065kmybr9f1m) for more details.
+> Please follow the [T001 - 文献标注指南](/tutorials/T001-文献标注.md) for more details.
 
 ### How to curate multi-omics data for a specified disease?
 
