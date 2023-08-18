@@ -27,8 +27,6 @@ hide:
 
 - **Zihan Ran#\***, **Jingcheng Yang#**, Yaqing Liu#, ..., Tao Yang\*. GlioMarker: An integrated database for knowledge exploration of diagnostic biomarkers in gliomas.[J]. Frontiers in Oncology (2022), 12, 792055.
 
-- **Zihan Ran#\***, **Jingcheng Yang#**, Yaqing Liu#, **Yechao Huang**, Yueqiang Song, Yu Gu, Shuo Zhao, Mengqi Fa, Jiangjie Lu, Qingwang Chen, Zehui Cao, Xiaofei Li, Shanyue Sun. GlioMarker: An Integrated Database for Knowledge Exploration of Diagnostic Biomarkers in Gliomas. Frontiers in Oncology, 2022.
-
 - Zhao Y#, Shang J#, Gao J#, Han H, Gao Z, Yan Y, Zheng Q, Ye T, Fu F, Deng C, Ma Z, Cao Z, Shi L, Chen H. Up-regulated tumor intrinsic growth potential and decreased immune function orchestrate the evolution of lung adenocarcinoma. Front Immunol. 2022 Jul 1;13:921761.
 
 - **Jingcheng Yang#**, Yaqing Liu#, Jun Shang#, **Yechao Huang**, Ying Yu, Zhihui Li, Leming Shi, **Zihan Ran\***. BioVisReport: a lightweight website-builder for reproducible and interactive visualization of biomedical data of peer-reviewed publications. Computational and Structural Biotechnology Journal, 2022.
@@ -39,7 +37,7 @@ hide:
 
 - Qingwang Chen#, Yaqing Liu#, Ruolan Zhang#, Yuechen Gao#, Zehui Cao, Ding Ma\*, **Jingcheng Yang\***, Zhiming Shao\*, Ying Yu\*. A comprehensive genomic and transcriptomic dataset of Chinese triple-negative breast cancers. Scientific Data, 2022.
 
-- Pan B, Ren L, Onuchic V, Guan M, Kusko R, Bruinsma S, Trigg L, Scherer A, Ning B, Zhang C …, Shang J, …, Zheng Y, Hong, H. Assessing reproducibility of inherited variants detected with short-read whole genome sequencing. Genome biology. 2022 Dec;23(1):1-26.
+- Pan B, Ren L, Onuchic V, Guan M, Kusko R, Bruinsma S, Trigg L, Scherer A, Ning B, Zhang C …, Shang J, …, Zheng Y, Hong, H. Assessing reproducibility of inherited variants detected with short-read whole genome sequencing. Genome Biology. 2022 Dec;23(1):1-26.
 
 - Xintong Yao#, Shanyue Sun#, Yi Zi, Yaqing Liu, **Jingcheng Yang**, ..., Leming Shi, Quanzhen Li\*, Ying Yu\*, Yuanting Zheng\*. Comprehensive microRNA-seq transcriptomic profiling across 11 organs, 4 ages, and 2 sexes of Fischer 344 rats.[J]. Scientific Data (2022) 9, 1-10.
 
