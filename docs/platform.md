@@ -31,11 +31,12 @@ Such as Knowledge Graph, Omics Data Analyzer, QC Tools, Data Repo for BioMedical
 
 ### 🧑‍🔬 Knowledge Curation and Databases
 
-| Title | Description|
-|--|--|
-| [Label Studio for BioMedical Knowledges](https://prophet-studio.3steps.cn/) | A data labeling and annotation tool for biomedical knowledges. |
-| [GuideScoper](https://biosolver.cn/) | Find the Best sgRNAs and Design top-scoring guide RNAs for gene knockout |
-| [GlioMarker](http://gliomarker.prophetdb.org/#/home) | An integrated Database for Knowledge Exploration of Diagnostic Biomarkers in Gliomas |
+| Title | Description| Open Source Repo |
+|--|--|--|
+| [Label Studio for BioMedical Knowledges](https://prophet-studio.3steps.cn/) | A data labeling and annotation tool for biomedical knowledges. | [GitHub Repo](https://github.com/yjcyxky/label-studio) |
+| [Paper Downloader](https://publications.3steps.cn) | A paper downloader for biomedical knowledges. | [GitHub Repo](https://github.com/yjcyxky/paper-downloader) |
+| [GuideScoper](https://biosolver.cn/) | Find the Best sgRNAs and Design top-scoring guide RNAs for gene knockout | [GitHub Repo](https://github.com/yjcyxky/cell-guider) |
+| [GlioMarker](http://gliomarker.prophetdb.org/#/home) | An integrated Database for Knowledge Exploration of Diagnostic Biomarkers in Gliomas | [GitHub Repo](https://github.com/yjcyxky/gliomarker) |
 
 ### 📁 Collections
 
