@@ -44,7 +44,7 @@ Such as Knowledge Graph, Omics Data Analyzer, QC Tools, Data Repo for BioMedical
 | [Antibody DL](https://github.com/yjcyxky/antibody-dl) | A Collection of Platform, Tools, and Resources for Antibody Engineering|
 | [BioMedical Knowledgebases](https://github.com/yjcyxky/biomedical-knowledgebases) | A collection of biomedical knowledgebases, ontologies, and datasets. |
 | [Toxicant Datasets](https://github.com/yjcyxky/toxicant-datasets) | A collection of toxicant dataset. |
-| [Raman Spectra Datasets](https://github.com/yjcyxky/raman-datasets) | A collection of raman spectra dataset. |
+| [Raman Spectra Datasets](https://github.com/yjcyxky/raman-spectra-datasets) | A collection of raman spectra dataset. |
 
 ## 🗄️ Data Repositories
 
