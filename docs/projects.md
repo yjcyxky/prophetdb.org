@@ -3,7 +3,9 @@ hide:
   - navigation
 ---
 
-## 📝 Ongoing Research Projects - 2023
+# 📝 Ongoing Research Projects - 2023
+
+## Curation - Building Your Own Knowledge Graph
 
 ### 🧑‍🔬 Curation of BioMedical Knowledges for Chemotherapy-induced Thrombocytopenia (CIT)
 
@@ -34,6 +36,8 @@ hide:
 > Website: [ME/CFS and Long COVID Knowledgebase](https://prophet-studio.3steps.cn)
 
 
+## Platform 
+
 ### 🕸️ Building of BioMedical Knowledge Graph and Graph Neural Network for Drug Repurposing
 
 > <img alt="BioMedGPS" src="/assets/images/biomedgps.png" width="100%" />
@@ -52,6 +56,9 @@ hide:
 
 > Repository: [BioMedGPS](https://github.com/yjcyxky/biomedgps)
 
+
+## Databases
+
 ### 🧬 Building of sgRNA database for CRISPR/Cas9
 
 > Goal: curate all sgRNAs from literatures and develop an online database.
@@ -69,9 +76,9 @@ hide:
 > Repository: [sgRNA Checker](https://github.com/yjcyxky/sgrna-checker)
 
 
-## 📝 Finished Research Projects
+# 📝 Finished Research Projects
 
-### 🧑‍🔬 GlioMarker: An Integrated Database for Knowledge Exploration of Diagnostic Biomarkers in Gliomas
+## 🧑‍🔬 GlioMarker: An Integrated Database for Knowledge Exploration of Diagnostic Biomarkers in Gliomas
 
 >  <img alt="GlioMarker" src="/assets/images/gliomarker.png" width="100%" />
 

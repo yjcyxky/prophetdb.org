@@ -66,7 +66,7 @@ theme:
 # Table of contents
 nav:
   - Home: index.md
-  - 'Ongoing Projects': projects.md
+  - Projects: projects.md
   - Goals: goals.md
   - 'Platform & Resources': platform.md
   - Publications: publications.md
