@@ -74,4 +74,5 @@ nav:
   - 'Contact Us': contact.md
   - 'FAQs': faqs.md
   - 'Tutorials':
-    - 'T001-ProphetStudio-文献标注': './tutorials/T001-文献标注.md'
+    - 'Prophet Studio':
+      - 'T001-文献标注': './tutorials/prophet-studio/T001-文献标注.md'
