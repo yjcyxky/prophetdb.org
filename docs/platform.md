@@ -41,6 +41,7 @@ Such as Knowledge Graph, Omics Data Analyzer, QC Tools, Data Repo for BioMedical
 
 | Title | Description |
 |--|--|
+| [Omics Datasets](https://github.com/yjcyxky/omics-datasets) | A collection of omics datasets for cancer and rare diseases. [Only for Group Members] |
 | [Antibody DL](https://github.com/yjcyxky/antibody-dl) | A Collection of Platform, Tools, and Resources for Antibody Engineering|
 | [BioMedical Knowledgebases](https://github.com/yjcyxky/biomedical-knowledgebases) | A collection of biomedical knowledgebases, ontologies, and datasets. |
 | [Toxicant Datasets](https://github.com/yjcyxky/toxicant-datasets) | A collection of toxicant dataset. |

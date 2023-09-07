@@ -7,19 +7,19 @@ hide:
 
 - Shang J, Jiang H, Zhao Y, Lai J, Shi L, **Yang J\***, Chen H\*, Zheng Y\*. Differences of molecular events driving pathological and radiological progression of lung adenocarcinoma. EBioMedicine. 2023 Jul 26;94:104728. doi: 10.1016/j.ebiom.2023.104728. Epub ahead of print. PMID: 37506543.
 
-- Yuanting Zheng#, Yaqing Liu#, **Jingcheng Yang#**, ..., Leming Shi\*. Ratio-based quantitative multiomics profiling using universal reference materials empowers data integration. [Accepted].
+- Chengdong Zhang#, Yuan Yang#, Tao Qi#, Yuening Zhang, Linghui Hou, Jingjing Wei, **Jingcheng Yang**, Leming Shi, Sang-Ging Ong, Hongyan Wang, Hui Wang*, Bo Yu* & Yongming Wang*. Prediction of base editor off-targets by deep learning. Nat Commun 14, 5358 (2023). https://doi.org/10.1038/s41467-023-41004-3
+
+- Yuanting Zheng#, Yaqing Liu#, **Jingcheng Yang#**, ..., Leming Shi\*. Ratio-based quantitative multiomics profiling using universal reference materials empowers data integration. [Nature Biotechnology - Accepted].
+
+- Shen Zhao#, Depin Chen#, Tong Fu#, **Jingcheng Yang#**, ..., Wentao Yang\*, Yizhou Jiang\*, Jun Xu\*, Zhiming Shao\*. Singe-cell morphological and topological atlas reveals ecosystem diversity of human breast cancer. [Nature Communications - Accepted].
+
+- **Jingcheng Yang#**, Yaqing Liu#, Jun Shang#, ..., Wenming Xiao, Yuanting Zheng\*, Leming Shi\*. The Quartet Data Portal: integration of community-wide resources for multiomics quality control. [Genome Biology - Accepted].
 
 - Luyao Ren#, Xiaoke Duan#, Lianghua Dong#, Rui Zhang#, **Jingcheng Yang#**, ..., Leming Shi, Huixiao Hong, Jing Wang\*, Shaohua Fan\*, Xiang Fang\*, Yuanting Zheng\*. Quartet DNA reference materials and datasets for comprehensively evaluating germline variants calling performance. [Under Review].
 
-- **Jingcheng Yang#**, Yaqing Liu#, Jun Shang#, ..., Wenming Xiao, Yuanting Zheng\*, Leming Shi\*. The Quartet Data Portal: integration of community-wide resources for multiomics quality control. [Under Review].
-
 - Jun Shang#, Yue Zhao#, He Jiang#, **Jingcheng Yang#**, ..., Leming Shi\*, Haiquan Chen\*, Yuanting Zheng\*. Poor prognosis of stage I lung adenocarcinoma patients determined by elevated expression over pre/minimally invasive status of COL11A1 and THBS2 in the focal adhesion pathway. [Under Review].
 
-- Shen Zhao#, Depin Chen#, Tong Fu#, **Jingcheng Yang#**, ..., Wentao Yang\*, Yizhou Jiang\*, Jun Xu\*, Zhiming Shao\*. Singe-cell morphological and topological atlas reveals ecosystem diversity of human breast cancer. [Under Review].
-
 - Chengdong Zhang#, Daqi Wang#, Tao Qi#, ..., **Jingcheng Yang**, ..., Hongyan Wang\*, Yongming Wang\*. BEdeepon: an in silico tool for prediction of base editor efficiencies and outcomes. [Under Review]
-
-- Chengdong Zhang#, Daqi Wang#, Tao Qi#, ..., **Jingcheng Yang**, ..., Hongyan Wang\*, Yongming Wang\*. BEdeepoff: an in silico tool for off-target prediction of ABE and CBE base editors. [Under Review]
 
 - **Jingcheng Yang#**, Mo Sun#, **Zihan Ran**, Taewhan Yang, Deepali L. Kundnani, Francesca Storici\*, Penghao Xu\*. The rNMPID database: riboNucleoside MonoPhosphate In DNA. [Under Review]
 
