@@ -74,21 +74,3 @@ hide:
 > Publication: 
 
 > Repository: [sgRNA Checker](https://github.com/yjcyxky/sgrna-checker)
-
-
-# 📝 Finished Research Projects
-
-## 🧑‍🔬 GlioMarker: An Integrated Database for Knowledge Exploration of Diagnostic Biomarkers in Gliomas
-
->  <img alt="GlioMarker" src="/assets/images/gliomarker.png" width="100%" />
-
-> Category: Database; Knowledge Curation
-
-> Description: GlioMarker is the first diagnostic biomarker database in the field of gliomas to provide biomarker knowledge exploration, including comprehensive literature mining, ontology annotations, precision medical knowledge exploration, and online omics data analysis and visualization. It may serve as a specialist ploatform for clinicians and researchers by providing rapid and comprehensive knowledge, which in turn will facilitate high-quality research and biomarker applications.
-
-> Website: [http://gliomarker.prophetdb.org/#/home](http://gliomarker.prophetdb.org/#/home)
-
-> Group Members: Zihan Ran, Jingcheng Yang, XiuWen Chen, Zijing Ma
-
-> Publication: [https://doi.org/10.3389/fonc.2022.792055](https://doi.org/10.3389/fonc.2022.792055)
-

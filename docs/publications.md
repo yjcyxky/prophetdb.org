@@ -3,7 +3,8 @@ hide:
   - navigation
 ---
 
-## 2023
+## Publications
+### 2023
 
 - Shang J, Jiang H, Zhao Y, Lai J, Shi L, **Yang J\***, Chen H\*, Zheng Y\*. Differences of molecular events driving pathological and radiological progression of lung adenocarcinoma. EBioMedicine. 2023 Jul 26;94:104728. doi: 10.1016/j.ebiom.2023.104728. Epub ahead of print. PMID: 37506543.
 
@@ -23,7 +24,7 @@ hide:
 
 - **Jingcheng Yang#**, Mo Sun#, **Zihan Ran**, Taewhan Yang, Deepali L. Kundnani, Francesca Storici\*, Penghao Xu\*. The rNMPID database: riboNucleoside MonoPhosphate In DNA. [Under Review]
 
-## 2022
+### 2022
 
 - **Zihan Ran#\***, **Jingcheng Yang#**, Yaqing Liu#, ..., Tao Yang\*. GlioMarker: An integrated database for knowledge exploration of diagnostic biomarkers in gliomas.[J]. Frontiers in Oncology (2022), 12, 792055.
 
@@ -43,7 +44,7 @@ hide:
 
 - **Zihan Ran#**, Shaobo Wu#, Zijing Ma, Xiuwen Chen, Jing Liu, **Jingcheng Yang\***. Advances in Exosome Biomarkers for Cervical Cancer. Cancer Medicine, 2022.
 
-## 2021
+### 2021
 
 - Danko, D., Bezdan, D., Afshin, E. E., Ahsanuddin, S., Bhattacharya, C., Butler, D. J., ... & Bittner, L. (2021). A global metagenomic map of urban microbiomes and antimicrobial resistance. Cell, 184(13), 3376-3393.
 
@@ -53,7 +54,7 @@ hide:
 
 - **Ran, Z.**, An, Y., Zhou, J. I., **Yang, J.**, Zhang, Y., Yang, J., ... & Li, R. (2021). Subchronic exposure to concentrated ambient PM2. 5 perturbs gut and lung microbiota as well as metabolic profiles in mice. Environmental Pollution, 272, 115987.
 
-## 2020
+### 2020
 
 - **Jingcheng Yang#**, Jun Shang#, Qian Song#, Zuyi Yang, Jianing Chen, Ying Yu, Leming Shi\*. ECCDIA: an interactive web tool for the comprehensive analysis of clinical and survival data of esophageal cancer patients[J]. BMC Cancer, 2020, 20(1): 1–6.
 
@@ -65,7 +66,7 @@ hide:
 
 - Yang Z#, Shang J#, Li N, Zhang L, Tang T, Tian G, Chen X. Development and validation of a 10-gene prognostic signature for acute myeloid leukaemia. Journal of cellular and molecular medicine, 2020, 24(8): 4510-4523.
 
-## 2019
+### 2019
 
 - Wang Z, Song Q, Yang Z, Chen J, Shang J\*, Ju W\*. Construction of immune‐related risk signature for renal papillary cell carcinoma. Cancer Medicine. 2019 Jan;8(1):289-304.
 
@@ -87,18 +88,38 @@ hide:
 
 - Youyi Zhang, Zihan Ran, Miaomiao Tian, Yang Zhou, **Jingcheng Yang**, Juan Yin, Daru Lu, Rui Li, Jiang Zhong. Commensal microbes affect host humoral immunity to Bordetellapertussis infection. 2019, Infection and Immunity, 87(10).
 
-## 2018
+### 2018
 
 - Jun Shang, Qian Song, Zuyi Yang, Xiaoyan Sun, Meijuan Xue, Wenjie Chen, **Jingcheng Yang**, Sihua Wang. Analysisof PD-1 related immune transcriptional profile in different cancer types. 2018, Cancer Cell International, 18(1), 1-11.
 
-## 2017
+### 2017
 
 - Zhang JY, Shang J, Huo TM, Zhang B, Chen G, Zeng ZY, Li SK. Local application of paeonol prevents early restenosis: a study with a rabbit vein graft model. Journal of Surgical Research. 2017 May 15;212:278-87.
 
 - Shang J#, Song Q#, Yang Z#, Li D, Chen W, Luo L, Wang Y, **Yang J**, Li S. Identification of lung adenocarcinoma specific dysregulated genes with diagnostic and prognostic value across 27 TCGA cancer types. Oncotarget. 2017 Oct 20;8(50):87292.
 
-## 2014
+### 2014
 
 - **Jingcheng Yang#**, Jinyuan Lin#, Tianxiao Liu#, Ting Chen, Shangling Pan, Weiqiang Huang, Shikang Li\*. Analysis of lncRNA expression profiles in non-small cell lung cancers (NSCLC) and their clinical subtypes. Lung Cancer, 2014, 85(2), 110–115.
 
 - **Jingcheng Yang#**, Shuai Han#, Wenwen Huang#, Ting Chen, Yang Liu, Shangling Pan, & Shikang Li\*. A meta-analysis of microRNA expression in liver cancer. PLoS One, 2014, 9(12), e114533.
+
+
+## Online Systems and Databases
+
+### GlioMarker
+
+An Integrated Database for Knowledge Exploration of Diagnostic Biomarkers in Gliomas
+
+>  <img alt="GlioMarker" src="/assets/images/gliomarker.png" width="100%" />
+
+> Category: Database; Knowledge Curation
+
+> Description: GlioMarker is the first diagnostic biomarker database in the field of gliomas to provide biomarker knowledge exploration, including comprehensive literature mining, ontology annotations, precision medical knowledge exploration, and online omics data analysis and visualization. It may serve as a specialist ploatform for clinicians and researchers by providing rapid and comprehensive knowledge, which in turn will facilitate high-quality research and biomarker applications.
+
+> Website: [http://gliomarker.prophetdb.org/#/home](http://gliomarker.prophetdb.org/#/home)
+
+> Group Members: Zihan Ran, Jingcheng Yang, XiuWen Chen, Zijing Ma
+
+> Publication: [https://doi.org/10.3389/fonc.2022.792055](https://doi.org/10.3389/fonc.2022.792055)
+
