@@ -72,7 +72,4 @@ nav:
   - Publications: publications.md
   - 'Team Members': team_members.md
   - 'Contact Us': contact.md
-  - 'FAQs': faqs.md
-  - 'Tutorials':
-    - 'Prophet Studio':
-      - 'T001-文献标注': './tutorials/prophet-studio/T001-文献标注.md'
+
