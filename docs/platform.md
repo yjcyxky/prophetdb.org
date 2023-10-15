@@ -5,14 +5,26 @@ hide:
 
 ## 🖥️ Open-Source Projects from Our Lab
 
-### A Platform for Drug Repurposing, Disease Mechanism, Toxicological Mechanism and Biomarker Screening
+### Knowledge Curation and Databases
+
+<img src="https://raw.githubusercontent.com/yjcyxky/prophetdb.org/master/docs/assets/images/prophet-studio-kg-editor.png" width="100%" />
+
+| Title | Description| Open Source Repo | Feedback |
+|--|--|--|--|
+| [Prophet Studio](https://prophet-studio.3steps.cn/) | A data labeling and annotation tool for biomedical publications. | [GitHub Repo](https://github.com/yjcyxky/prophet-studio) | [Post an Issue](https://github.com/yjcyxky/prophet-studio/issues) |
+| [GuideScoper](https://biosolver.cn/) | Find the Best sgRNAs and Design top-scoring guide RNAs for gene knockout | [GitHub Repo](https://github.com/yjcyxky/cell-guider) ||
+| [GlioMarker](http://gliomarker.prophetdb.org/#/home) | An integrated Database for Knowledge Exploration of Diagnostic Biomarkers in Gliomas | [GitHub Repo](https://github.com/yjcyxky/gliomarker) ||
+
+### A Platform for Drug Repurposing, Disease Mechanism, and Biomarker Screening
+
+<img src="https://raw.githubusercontent.com/yjcyxky/prophetdb.org/master/docs/assets/images/biomedgps.png" width="100%" />
 
 Such as Knowledge Graph, Omics Data Analyzer, QC Tools, Data Repo for BioMedical Models, DL Models etc.
 
-|Title | Language | Description|
-|--|--|--|
-| [BioMedGPS](https://github.com/yjcyxky/biomedgps) | Rust, TypeScript, Python | A knowledge graph system with graph neural network for drug repurposing, disease mechanism and biomarker screening.|
-| [Chat Publications](https://github.com/yjcyxky/chat-publications) | Python | Ask questions and get answers from publications.|
+|Title | Language | Description| Feedback |
+|--|--|--|--|
+| [BioMedGPS](https://github.com/yjcyxky/biomedgps) | Rust, TypeScript, Python | A knowledge graph system with graph neural network for drug repurposing, disease mechanism and biomarker screening.| [Post an Issue](https://github.com/yjcyxky/biomedgps/issues) |
+| [Chat Publications](https://github.com/yjcyxky/chat-publications) | Python | Ask questions and get answers from publications.| |
 
 ### Online Quality Assessment Platform for Multi-omics Data
 
@@ -28,14 +40,6 @@ Such as Knowledge Graph, Omics Data Analyzer, QC Tools, Data Repo for BioMedical
 | [BioMiner](https://github.com/yjcyxky/biominer) | Clojure, Vue | Online analysis platform for multi-omics data. |
 | [BioMiner Indexd](https://github.com/yjcyxky/biominer-indexd) | Rust | Index engine for biomedical data files. We epect it will be a indexing engine for indexing high quality data, such as clinical data (EHR), multi-omics data, whole slide image, etc. |
 | [PreQC Pack](https://github.com/yjcyxky/preqc-pack) | Rust | A quality assessment tool for high throughput sequence data. |
-
-### Knowledge Curation and Databases
-
-| Title | Description| Open Source Repo |
-|--|--|--|
-| [Prophet Studio](https://prophet-studio.3steps.cn/) | A data labeling and annotation tool for biomedical publications. | [GitHub Repo](https://github.com/yjcyxky/prophet-studio) |
-| [GuideScoper](https://biosolver.cn/) | Find the Best sgRNAs and Design top-scoring guide RNAs for gene knockout | [GitHub Repo](https://github.com/yjcyxky/cell-guider) |
-| [GlioMarker](http://gliomarker.prophetdb.org/#/home) | An integrated Database for Knowledge Exploration of Diagnostic Biomarkers in Gliomas | [GitHub Repo](https://github.com/yjcyxky/gliomarker) |
 
 ## 📁 Collections
 
