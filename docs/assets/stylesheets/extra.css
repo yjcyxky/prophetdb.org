@@ -65,7 +65,7 @@ iframe[style^="background"] {
 }
 
 .showcase-container a .image {
-  height: 100%;
+  /* height: 100%; */
   margin: 10px;
 }
 
@@ -86,12 +86,12 @@ iframe[style^="background"] {
   color: black;
 }
 
-.card {
+.member-card {
   display: flex;
   flex-direction: row;
   justify-content: space-between;
   margin-bottom: 20px;
-  width: 33%;
+  /* width: 33%; */
   height: 230px;
   margin-right: 20px;
   border: 1px solid #e7e7e7;
@@ -99,44 +99,44 @@ iframe[style^="background"] {
   padding: 5px;
 }
 
-.card .left {
+.member-card .left {
   display: flex;
   flex-direction: column;
   justify-content: flex-start;
   align-items: center;
 }
 
-.card .left img {
+.member-card .left img {
   width: 150px;
   border: 1px solid #e7e7e7;
   border-radius: 50%;
 }
 
-.card .right {
+.member-card .right {
   font-size: 16px;
   margin-left: 20px;
-  text-align: right;
+  text-align: left;
 }
 
-.card .left .name {
+.member-card .left .name {
   font-size: 20px;
   font-weight: bold;
   text-align: center;
   margin: 5px 0;
 }
 
-.card .left .position {
+.member-card .left .position {
   font-size: 16px;
   text-align: center;
 }
 
 /* media */
 @media screen and (max-width: 768px) {
-  .card .right {
+  .member-card .right {
     display: none;
   }
 
-  .card .left {
+  .member-card .left {
     width: 100%;
   }
 
@@ -146,11 +146,11 @@ iframe[style^="background"] {
 }
 
 @media (min-width: 768px) and (max-width: 1024px) {
-  .card .right {
+  .member-card .right {
     display: none;
   }
 
-  .card .left {
+  .member-card .left {
     width: 100%;
   }
 
@@ -160,15 +160,20 @@ iframe[style^="background"] {
 }
 
 @media (min-width: 1024px) and (max-width: 1280px) {
-  .card .right {
+  .member-card .right {
     display: none;
   }
 
-  .card .left {
+  .member-card .left {
     width: 100%;
   }
 
   .showcase-container a {
     width: 30%;
   }
+}
+
+.member-card {
+    flex: 0 0 calc(50% - 10px);
+    margin: 5px;
 }
